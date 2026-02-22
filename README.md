@@ -4,7 +4,7 @@
 
 ---
 
-## 🖼 کاور Traktor Pro 4
+
 
 <img src="images/A.jpg" width="400">
 
